@@ -1,0 +1,23 @@
+{
+  "name": "beautiful-dialog",
+  "version": "1.0.0",
+  "description": "A css utility to beautify an HTML Dialog element and its backdrop.",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigtockman/beautiful.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "dialog",
+    "element",
+    "backdrop"
+  ],
+  "author": "Craig Tockman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craigtockman/beautiful/issues"
+  },
+  "homepage": "https://github.com/craigtockman/beautiful#readme"
+}
